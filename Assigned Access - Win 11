@@ -10,9 +10,7 @@ $assignedAccessConfiguration = @"
           <App DesktopAppPath="%windir%\explorer.exe" />
           <App DesktopAppPath="%ProgramFiles%\Google\Chrome\Application\chrome.exe" />
           <App DesktopAppPath="C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe" />
-          <App DesktopAppPath="%windir%\ltsvc\lttray.exe" />
           <App DesktopAppPath="%windir%\System32\WindowsPowerShell\v1.0\Powershell.exe" />
-          <App DesktopAppPath="%PROGRAMFILES%\SCREENCONNECT CLIENT (54FAC68688CAE957)\SCREENCONNECT.WINDOWSCLIENT.EXE"  />
           <App AppUserModelId="windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel" />
         </AllowedApps>
       </AllAppsList>
