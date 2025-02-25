@@ -1,3 +1,5 @@
+# Assigned Access config basic Kiosk mode for Win 11 Workstation
+
 $assignedAccessConfiguration = @"
 <?xml version="1.0" encoding="utf-8"?>
 <AssignedAccessConfiguration xmlns="http://schemas.microsoft.com/AssignedAccess/2017/config" xmlns:rs5="http://schemas.microsoft.com/AssignedAccess/201810/config" xmlns:v3="http://schemas.microsoft.com/AssignedAccess/2020/config" xmlns:v5="http://schemas.microsoft.com/AssignedAccess/2022/config">
